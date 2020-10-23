@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/ApachePOI/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="src/ApachePOI/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
