@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (TP 02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Analyse_Statistique.cpp
+  Main.cpp
+  Generating code
+  0 of 1247 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+datum.lib(data_statistics.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(statistical_metric.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(statistical_metric.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(enable_high_priority_thread.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(enable_high_priority_thread.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(evaluator.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(evaluator.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(b52_project2_evaluator.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(b52_project2_evaluator.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics_impl_level1.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics_impl_level1.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics_impl_level3.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics_impl_level3.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics_impl_level2.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics_impl_level2.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+datum.lib(evaluation.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(evaluation.obj)' or at 'C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\datum.pdb'; linking object as if no debug info
+  Analyse Statistique.vcxproj -> C:\__ Github public projects\git\C++ - Analyse Statistique\Project\Release\Analyse Statistique.exe

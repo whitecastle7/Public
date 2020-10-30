@@ -1,18 +1,21 @@
 -
-Statistic Analysis
-C++ (with a precompiled library)
+Project Name:				Statistic Analysis
 
-The program itself is very short.
-The code in the precompiled library was not made available.
-The do_process() function is called, everything else is the coder's job.
+Programming Language:		C++ (with a precompiled library)
 
-The goal is simple:
-Randomly, vectors containing Reels and Integers are sent out.
-Some are actually empty, some have only zeros, others have ascending numbers
-and some have completely random values.
-In the shortest amount of time, values for the sum, median, average
-and other calculations must be sent back through a set() function.
+How to run:					Visual Studio 2017
+							Run in release
+							Break point in main() before return
+							Likely need to widen console manually
 
-All of the values sent must obviously be correct.
+Details:					The code in the precompiled library was not made available
+							The object Analyse_Statistique is passed to the evaluator object
+							The evalutor calls the do_process() fonction
+
+Goal:						Receive a custom data type; a vector containing reals
+							(there is no way to know if it is empty, ordered or set in a beneficial way beforehand)
+							Calculate different values, such as sum, mode, variance, etc.
+							Do so in the shorstest amount of time possible while retaining 100% accuracy
+							Call a set() method to pass the results
 
 -

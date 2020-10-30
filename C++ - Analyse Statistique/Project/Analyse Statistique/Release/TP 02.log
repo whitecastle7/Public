@@ -1,0 +1,18 @@
+﻿  b52p2_PhouttamaMakraphone_1.cpp
+  b52p2_RoyVincent_1.cpp
+  Main.cpp
+  Generating code
+  749 of 1251 functions (59.9%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    145 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+datum.lib(statistical_metric.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(statistical_metric.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(enable_high_priority_thread.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(enable_high_priority_thread.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(evaluator.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(evaluator.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(b52_project2_evaluator.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(b52_project2_evaluator.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics_impl_level1.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics_impl_level1.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics_impl_level3.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics_impl_level3.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(data_statistics_impl_level2.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(data_statistics_impl_level2.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+datum.lib(evaluation.obj) : warning LNK4099: PDB 'datum.pdb' was not found with 'datum.lib(evaluation.obj)' or at 'C:\C V M\C++\0\Projet test\TP 02\Release\datum.pdb'; linking object as if no debug info
+  TP 02.vcxproj -> C:\C V M\C++\0\Projet test\TP 02\Release\TP 02.exe
